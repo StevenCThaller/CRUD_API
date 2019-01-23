@@ -1,0 +1,35 @@
+* {
+    outline: 1px dotted red;
+}
+
+.container {
+    min-height: 250px;
+}
+
+#newTask {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#allTasks {
+    width: 50%;
+    display: block;
+}
+
+.task-detail {
+    list-style: none;
+    width: 45%;
+    display: inline-block;
+}
+
+#empty {
+    width: 100vw;
+    display: block;
+}
+
+#editTask {
+    width: 100%;
+    display: block;
+}
